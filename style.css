@@ -7,3 +7,39 @@
   box-sizing: border-box;
   margin: 0;
 }
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+/* Header */
+.header {
+  background-color: var(--dark-background);
+}
+
+.header_container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px 0;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: 700;
+  color: #f9faf8;
+}
+
+.header_links {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+}
+
+.header_link {
+  text-decoration: none;
+  color: #e5e7eb;
+  font-size: 18px;
+  font-weight: 300;
+}
