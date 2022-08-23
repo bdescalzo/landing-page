@@ -26,12 +26,12 @@ body {
   font-weight: 600;
   border-radius: 10px;
 }
-/* Header */
-.header {
+/* Navigation */
+.nav {
   background-color: var(--dark-background);
 }
 
-.header_container {
+.nav_container {
   display: flex;
   justify-content: space-between;
   align-items: center;
