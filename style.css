@@ -1,0 +1,9 @@
+/* Common */
+:root {
+  --dark-background: #1f2937;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
