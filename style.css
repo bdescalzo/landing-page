@@ -133,3 +133,30 @@ body {
 .card_paragraph {
   text-align: center;
 }
+
+/* Citation */
+
+.citation {
+  background-color: #e5e7eb;
+}
+
+.citation_container {
+  width: 70%;
+  padding: 80px 130px;
+}
+
+.citation_paragraph {
+  color: #1f2937;
+  font-weight: 300;
+  font-size: 36px;
+  font-style: italic;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.citation_author {
+  margin-top: 15px;
+  text-align: right;
+  font-weight: 700;
+  font-size: 20px;
+}
