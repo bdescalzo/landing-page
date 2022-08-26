@@ -185,3 +185,19 @@ body {
 .cta-button--reverse {
   border: 1px solid white;
 }
+
+/* Footer */
+
+.footer {
+  background-color: #1f2937;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.footer_text {
+  color: white;
+}
+
+.footer-link {
+  color: white;
+}
